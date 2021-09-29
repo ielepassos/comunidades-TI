@@ -4,7 +4,7 @@ Esse repositório foi feito com o intuito de ser amigável para iniciantes, ince
 
 ## Antes de mais nada
 
-se você não sabe fazer fork, clone, pull request.... vem de links,xuxu:
+Se você não sabe fazer fork, clone, pull request.... vem de links, xuxu:
 
 - [Github para iniciantes](https://www.youtube.com/watch?v=UbJLOn1PAKw)
 - [Guia de Markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
