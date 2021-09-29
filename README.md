@@ -9,5 +9,5 @@ Sabemos que fazer parte de comunidades proporciona além da criação/aumento de
 
 Nome | Descrição |  
 -------|----------------|
-[OpenDevUFCG](https://opendevufcg.org/)|comunidade voltada a incentivar a cultura open source no curso de Ciência da Computação da UFCG.
-[Elas@Computação UFCG](https://elas.computacao.ufcg.edu.br/)|comunidade com o intuito de trazer mais mulheres para o curso de Ciência da Computação e de gerar uma rede de apoio e visibilidade pautada na sororidade e no empoderamento de todas as meninas que fazem parte desse meio.
+[OpenDevUFCG](https://opendevufcg.org/)|Comunidade voltada a incentivar a cultura open source no curso de Ciência da Computação da UFCG.
+[Elas@Computação UFCG](https://elas.computacao.ufcg.edu.br/)|Comunidade de mulheres no curso de Ciência da Computação da UFCG.
