@@ -11,3 +11,5 @@ Nome | Descrição |
 -------|----------------|
 [OpenDevUFCG](https://opendevufcg.org/)|Comunidade voltada a incentivar a cultura open source no curso de Ciência da Computação da UFCG.
 [Elas@Computação UFCG](https://elas.computacao.ufcg.edu.br/)|Comunidade que tem o objetivo de abraçar, reunir, enaltecer, inspirar e incentivar à entrada e perpetuação de mulheres no curso de Ciência da Computação da UFCG.
+[PyladiesPB](https://linktr.ee/pyladiespb)|Comunidade na Paraíba com foco em ajudar mais mulheres a se tornarem participantes ativas e líderes da comunidade de código aberto Python.
+
