@@ -13,3 +13,4 @@ Nome | Descrição |
 [Elas@Computação UFCG](https://elas.computacao.ufcg.edu.br/)|Comunidade que tem o objetivo de abraçar, reunir, enaltecer, inspirar e incentivar à entrada e perpetuação de mulheres no curso de Ciência da Computação da UFCG.
 [PyladiesPB](https://linktr.ee/pyladiespb)|Comunidade na Paraíba com foco em ajudar mais mulheres a se tornarem participantes ativas e líderes da comunidade de código aberto Python.
 [SouJava](https://soujava.org.br/)|O SouJava é um grupo de usuários formado por desenvolvedores da tecnologia Java no Brasil. Ele tem como objetivo fortalecer, expandir e profissionalizar o uso de Java no país.
+[Reprograma](https://reprograma.com.br/)|A {reprograma} é uma iniciativa de impacto social que foca em ensinar programação para mulheres cis e trans que não têm recursos e/ou oportunidades para aprender a programar.
