@@ -14,3 +14,4 @@ Nome | Descrição |
 [PyladiesPB](https://linktr.ee/pyladiespb)|Comunidade na Paraíba com foco em ajudar mais mulheres a se tornarem participantes ativas e líderes da comunidade de código aberto Python.
 [SouJava](https://soujava.org.br/)|O SouJava é um grupo de usuários formado por desenvolvedores da tecnologia Java no Brasil. Ele tem como objetivo fortalecer, expandir e profissionalizar o uso de Java no país.
 [Reprograma](https://reprograma.com.br/)|A {reprograma} é uma iniciativa de impacto social que foca em ensinar programação para mulheres cis e trans que não têm recursos e/ou oportunidades para aprender a programar.
+[Women Techmakers](https://www.womentechmakers.com)| A WTM é um programa da Google para integrar e apoiar mulheres de tecnologia, promovendo eventos e trocando conhecimento
