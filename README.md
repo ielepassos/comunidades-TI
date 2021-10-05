@@ -17,3 +17,6 @@ Nome | Descrição |
 [Women Techmakers](https://www.womentechmakers.com)| A WTM é um programa da Google para integrar e apoiar mulheres de tecnologia, promovendo eventos e trocando conhecimento
 [AfroPython](http://afropython.org/)| Comunidade com intuito de aumentar a representatividade de pessoas negras dentro da área de tecnologia.
 [WoMakersCode](https://womakerscode.org/links)| Comunidade com o intuito de fortalecer o protagonismo feminino na TI, através do desenvolvimento profissional e econômico.
+[PyLadiesPhb](https://linktr.ee/pyladiesphb)|Comunidade em Parnaíba com foco em ajudar mais mulheres a se tornarem participantes ativas e líderes da comunidade de código aberto Python. 
+[Start Coding](https://linktr.ee/startcoding)| Iniciativa online com o objetivo de inserir mulheres no setor da tecnologia.
+[Brazilians in Tech](https://braziliansintech.com/)| A Brazilians in Tech é um espaço para conectar, encorajar e empoderar brasileiras estudando e trabalhando nas áreas de Ciência, Tecnologia, Computação e Engenharia.
