@@ -20,3 +20,5 @@ Nome | Descrição |
 [PyLadiesPhb](https://linktr.ee/pyladiesphb)|Comunidade em Parnaíba com foco em ajudar mais mulheres a se tornarem participantes ativas e líderes da comunidade de código aberto Python. 
 [Start Coding](https://linktr.ee/startcoding)| Iniciativa online com o objetivo de inserir mulheres no setor da tecnologia.
 [Brazilians in Tech](https://braziliansintech.com/)| A Brazilians in Tech é um espaço para conectar, encorajar e empoderar brasileiras estudando e trabalhando nas áreas de Ciência, Tecnologia, Computação e Engenharia.
+[http://brasil.pyladies.com/](http://brasil.pyladies.com/)| Comunidade que centraliza as Pyladies do Brasil todo, ou seja, os capítulos de cada estado
+
