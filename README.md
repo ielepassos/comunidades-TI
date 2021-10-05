@@ -16,4 +16,4 @@ Nome | Descrição |
 [Reprograma](https://reprograma.com.br/)|A {reprograma} é uma iniciativa de impacto social que foca em ensinar programação para mulheres cis e trans que não têm recursos e/ou oportunidades para aprender a programar.
 [Women Techmakers](https://www.womentechmakers.com)| A WTM é um programa da Google para integrar e apoiar mulheres de tecnologia, promovendo eventos e trocando conhecimento
 [AfroPython](http://afropython.org/)| Comunidade com intuito de aumentar a representatividade de pessoas negras dentro da área de tecnologia.
-[WoMakersCode](https://womakerscode.org/links) Comunidade com o intuito de fortalecer o protagonismo feminino na TI, através do desenvolvimento profissional e econômico.
+[WoMakersCode](https://womakerscode.org/links)| Comunidade com o intuito de fortalecer o protagonismo feminino na TI, através do desenvolvimento profissional e econômico.
