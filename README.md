@@ -22,4 +22,5 @@ Nome | Descrição |
 [Brazilians in Tech](https://braziliansintech.com/)| A Brazilians in Tech é um espaço para conectar, encorajar e empoderar brasileiras estudando e trabalhando nas áreas de Ciência, Tecnologia, Computação e Engenharia.
 [PyLadies Brasil](http://brasil.pyladies.com/)| Comunidade que centraliza as Pyladies do Brasil todo, ou seja, os capítulos de cada estado
 [Programaria](https://www.programaria.org/)| Projeto realizado por mulheres, com o objetivo de incentivar o ensino e aprendizado da programação, visando uma maior participação feminina no mercado da tecnologia. 
+[AI Girls](https://aigirlsbr.github.io/)|Uma comunidade feminina de tecnologia que tem por objetivo promover o protagonismo feminino nas áreas de inteligência artificial e ciência de dados.
 
