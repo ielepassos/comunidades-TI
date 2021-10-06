@@ -21,4 +21,5 @@ Nome | Descrição |
 [Start Coding](https://linktr.ee/startcoding)| Iniciativa online com o objetivo de inserir mulheres no setor da tecnologia.
 [Brazilians in Tech](https://braziliansintech.com/)| A Brazilians in Tech é um espaço para conectar, encorajar e empoderar brasileiras estudando e trabalhando nas áreas de Ciência, Tecnologia, Computação e Engenharia.
 [PyLadies Brasil](http://brasil.pyladies.com/)| Comunidade que centraliza as Pyladies do Brasil todo, ou seja, os capítulos de cada estado
+[Programaria](https://www.programaria.org/)| Projeto realizado por mulheres, com o objetivo de incentivar o ensino e aprendizado da programação, visando uma maior participação feminina no mercado da tecnologia. 
 
