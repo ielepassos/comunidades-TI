@@ -23,4 +23,6 @@ Nome | Descrição |
 [PyLadies Brasil](http://brasil.pyladies.com/)| Comunidade que centraliza as Pyladies do Brasil todo, ou seja, os capítulos de cada estado
 [Programaria](https://www.programaria.org/)| Projeto realizado por mulheres, com o objetivo de incentivar o ensino e aprendizado da programação, visando uma maior participação feminina no mercado da tecnologia. 
 [AI Girls](https://aigirlsbr.github.io/)|Uma comunidade feminina de tecnologia que tem por objetivo promover o protagonismo feminino nas áreas de inteligência artificial e ciência de dados.
+[Open Knowledge Brasil](https://ok.org.br/)| A OKBR promove e auxilia o debate em torno do open data e também fornece ferramentas para organizações trabalharem em alta performance no setor, além do seu contato direto com órgãos governamentais ou de governo aberto.
+
 
