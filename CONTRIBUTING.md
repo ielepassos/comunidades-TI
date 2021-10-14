@@ -18,4 +18,6 @@ Se você faz parte de uma comunidade e quer divulgá-la basta:
 
   2. Adicione na tabela as informações seguindo este modelo: nome da comunidade com link embutido| descrição breve da comunidade.
 
-  3. Depois disso, no fim da página faça um commit das suas alterações e abra sua PR. 
+  3. Certifique-se de adicionar as informações seguindo a ordem alfabética pelo nome da comunidade
+
+  4. Depois disso, no fim da página faça um commit das suas alterações e abra sua PR. 
