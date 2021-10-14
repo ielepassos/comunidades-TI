@@ -17,4 +17,5 @@ Nome | Descrição |
 [Women Techmakers](https://www.womentechmakers.com)| A WTM é um programa da Google para integrar e apoiar mulheres de tecnologia, promovendo eventos e trocando conhecimento
 [AfroPython](http://afropython.org/)| Comunidade com intuito de aumentar a representatividade de pessoas negras dentro da área de tecnologia.
 [WoMakersCode](https://womakerscode.org/links)| Comunidade com o intuito de fortalecer o protagonismo feminino na TI, através do desenvolvimento profissional e econômico.
-[http://brasil.pyladies.com/](http://brasil.pyladies.com/)| Comunidade que centraliza as Pyladies do Brasil todo, ou seja, os capítulos de cada estado
+[Pyladies](http://brasil.pyladies.com/)| Comunidade que centraliza as Pyladies do Brasil todo, ou seja, os capítulos de cada estado
+[BOSS](https://github.com/BOSS-BigOpenSourceSibling)| Programa de mentoria que visa engajar grupos sub-representados na tecnologia para contribuir para Open Source
