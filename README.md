@@ -26,4 +26,6 @@ Nome | Descrição |
 [Open Knowledge Brasil](https://ok.org.br/)| A OKBR promove e auxilia o debate em torno do open data e também fornece ferramentas para organizações trabalharem em alta performance no setor, além do seu contato direto com órgãos governamentais ou de governo aberto.
 [AI inclusive](https://pt.ai-inclusive.org/about)|Uma comunidade com a missão de aumentar a representação e participação de grupos de minorias de gênero na IA. 
 [R-Ladies](https://rladies.org/about-us/)|Uma comunidade com a missão de alcançar representação proporcional encorajando, inspirando e capacitando pessoas de gêneros atualmente sub-representados na comunidade R.
+[He4rt Developers](https://heartdevs.com/)|Uma comunidade que desenvolvem conteúdos educativos do mundo da programação, ensinando e tirando dúvidas sobre assuntos diversos em TI. 
+
 
