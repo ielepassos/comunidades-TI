@@ -16,6 +16,7 @@ Nome | Descrição |
 [AI inclusive](https://pt.ai-inclusive.org/about)|Uma comunidade com a missão de aumentar a representação e participação de grupos de minorias de gênero na IA. 
 [BOSS](https://github.com/BOSS-BigOpenSourceSibling)| Programa de mentoria que visa engajar grupos sub-representados na tecnologia para contribuir para Open Source
 [Brazilians in Tech](https://braziliansintech.com/)| A Brazilians in Tech é um espaço para conectar, encorajar e empoderar brasileiras estudando e trabalhando nas áreas de Ciência, Tecnologia, Computação e Engenharia.
+[Django Girls](https://djangogirls.org/pt-br/)| Django Girls é uma comunidade internacional que ajuda meninas a organizarem eventos de programação através do fornecimento de ferramentas, materiais e apoio. Os eventos tem como objetivo ensinar outras meninas a programarem sua primeira aplicação web usando HTML, CSS, Python e Django.
 [Elas@Computação UFCG](https://elas.computacao.ufcg.edu.br/)|Comunidade que tem o objetivo de abraçar, reunir, enaltecer, inspirar e incentivar à entrada e perpetuação de mulheres no curso de Ciência da Computação da UFCG.
 [He4rt Developers](https://heartdevs.com/)|Uma comunidade que desenvolve conteúdos educativos do mundo da programação, ensinando e tirando dúvidas sobre assuntos diversos em TI. 
 [OpenDevUFCG](https://opendevufcg.org/)|Comunidade voltada a incentivar a cultura open source no curso de Ciência da Computação da UFCG.
