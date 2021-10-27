@@ -17,6 +17,7 @@ Nome | Descrição |
 [BOSS](https://github.com/BOSS-BigOpenSourceSibling)| Programa de mentoria que visa engajar grupos sub-representados na tecnologia para contribuir para Open Source
 [Brazilians in Tech](https://braziliansintech.com/)| A Brazilians in Tech é um espaço para conectar, encorajar e empoderar brasileiras estudando e trabalhando nas áreas de Ciência, Tecnologia, Computação e Engenharia.
 [Elas@Computação UFCG](https://elas.computacao.ufcg.edu.br/)|Comunidade que tem o objetivo de abraçar, reunir, enaltecer, inspirar e incentivar à entrada e perpetuação de mulheres no curso de Ciência da Computação da UFCG.
+[FrontEnd Brasil](https://frontendbr.com.br/)|Comunidade que tem o intuito de compartilhar eventos, vagas, projetos e experiências com o foco no desenvolvimento front-end.
 [He4rt Developers](https://heartdevs.com/)|Uma comunidade que desenvolve conteúdos educativos do mundo da programação, ensinando e tirando dúvidas sobre assuntos diversos em TI. 
 [OpenDevUFCG](https://opendevufcg.org/)|Comunidade voltada a incentivar a cultura open source no curso de Ciência da Computação da UFCG.
 [Open Knowledge Brasil](https://ok.org.br/)| A OKBR promove e auxilia o debate em torno do open data e também fornece ferramentas para organizações trabalharem em alta performance no setor, além do seu contato direto com órgãos governamentais ou de governo aberto.
