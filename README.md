@@ -30,3 +30,5 @@ Nome | Descrição |
 [Start Coding](https://linktr.ee/startcoding)| Iniciativa online com o objetivo de inserir mulheres no setor da tecnologia.
 [WoMakersCode](https://womakerscode.org/links)| Comunidade com o intuito de fortalecer o protagonismo feminino na TI, através do desenvolvimento profissional e econômico.
 [Women Techmakers](https://www.womentechmakers.com)| A WTM é um programa da Google para integrar e apoiar mulheres de tecnologia, promovendo eventos e trocando conhecimento
+[Guardians](https://sites.google.com/a/computacao.ufcg.edu.br/guardians-ccc/)| Guardians é um grupo composto por alunos voluntários do curso de Ciência da Computação. Os principais objetivos do grupo eram inicialmente: manter o funcionamento dos laboratórios de ensino do curso, suporte aos usuários e às máquinas dos laboratórios e disseminação de conhecimento sobre Administração de Sistemas.
+Além disso, o grupo se estendeu com novas divisões como a célula de podcast, célula de Análise de Dados da Graduação, célula de estudo sobre assédio moral e sexual na UFCG, entre outras.
