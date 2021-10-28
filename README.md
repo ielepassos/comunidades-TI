@@ -7,10 +7,11 @@ Sabemos que fazer parte de comunidades proporciona além da criação/aumento de
 
 Antes de contribuir, leia o CONTRIBUTING.md :)
 
-## Espalhe a palavra da comunidade que você gosta 🙏 🙏 
+## Espalhe a palavra da comunidade que você gosta 🙏🏻🙏🏻
 
 Nome | Descrição |  
 -------|----------------|
+[Suraj Chandramauli](https://github.com/SURAJ-CHANDRAMAULI)|Uma comunidade que desenvolve conteúdos educativos do mundo da programação, ensinando e tirando dúvidas sobre assuntos diversos em TI.
 [AfroPython](http://afropython.org/)| Comunidade com intuito de aumentar a representatividade de pessoas negras dentro da área de tecnologia.
 [AI Girls](https://aigirlsbr.github.io/)|Uma comunidade feminina de tecnologia que tem por objetivo promover o protagonismo feminino nas áreas de inteligência artificial e ciência de dados.
 [AI inclusive](https://pt.ai-inclusive.org/about)|Uma comunidade com a missão de aumentar a representação e participação de grupos de minorias de gênero na IA. 
