@@ -18,6 +18,7 @@ Nome | Descrição |
 [Brazilians in Tech](https://braziliansintech.com/)| A Brazilians in Tech é um espaço para conectar, encorajar e empoderar brasileiras estudando e trabalhando nas áreas de Ciência, Tecnologia, Computação e Engenharia.
 [Django Girls](https://djangogirls.org/pt-br/)| Django Girls é uma comunidade internacional que ajuda meninas a organizarem eventos de programação através do fornecimento de ferramentas, materiais e apoio. Os eventos tem como objetivo ensinar outras meninas a programarem sua primeira aplicação web usando HTML, CSS, Python e Django.
 [Elas@Computação UFCG](https://elas.computacao.ufcg.edu.br/)|Comunidade que tem o objetivo de abraçar, reunir, enaltecer, inspirar e incentivar à entrada e perpetuação de mulheres no curso de Ciência da Computação da UFCG.
+[FrontEnd Brasil](https://frontendbr.com.br/)|Comunidade que tem o intuito de compartilhar eventos, vagas, projetos e experiências com o foco no desenvolvimento front-end.
 [He4rt Developers](https://heartdevs.com/)|Uma comunidade que desenvolve conteúdos educativos do mundo da programação, ensinando e tirando dúvidas sobre assuntos diversos em TI. 
 [OpenDevUFCG](https://opendevufcg.org/)|Comunidade voltada a incentivar a cultura open source no curso de Ciência da Computação da UFCG.
 [Open Knowledge Brasil](https://ok.org.br/)| A OKBR promove e auxilia o debate em torno do open data e também fornece ferramentas para organizações trabalharem em alta performance no setor, além do seu contato direto com órgãos governamentais ou de governo aberto.
