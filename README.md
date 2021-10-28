@@ -26,7 +26,8 @@ Nome | Descrição |
 [Programaria](https://www.programaria.org/)| Projeto realizado por mulheres, com o objetivo de incentivar o ensino e aprendizado da programação, visando uma maior participação feminina no mercado da tecnologia. 
 [PyLadies Brasil](http://brasil.pyladies.com/)| Comunidade que centraliza as Pyladies do Brasil todo, ou seja, os capítulos de cada estado
 [PyladiesPB](https://linktr.ee/pyladiespb)|Comunidade na Paraíba com foco em ajudar mais mulheres a se tornarem participantes ativas e líderes da comunidade de código aberto Python.
-[PyLadiesPhb](https://linktr.ee/pyladiesphb)|Comunidade em Parnaíba com foco em ajudar mais mulheres a se tornarem participantes ativas e líderes da comunidade de código aberto Python. 
+[PyLadiesPhb](https://linktr.ee/pyladiesphb)|Comunidade em Parnaíba com foco em ajudar mais mulheres a se tornarem participantes ativas e líderes da comunidade de código aberto Python.
+[Python Brasil](https://www.facebook.com/pythonbrasil/) |Comunidade nacional do Python com o objetivo de divulgar e difundir a linguagem de programação no Brasil.
 [Reprograma](https://reprograma.com.br/)|A {reprograma} é uma iniciativa de impacto social que foca em ensinar programação para mulheres cis e trans que não têm recursos e/ou oportunidades para aprender a programar.
 [R-Ladies](https://rladies.org/about-us/)|Uma comunidade com a missão de alcançar representação proporcional encorajando, inspirando e capacitando pessoas de gêneros atualmente sub-representados na comunidade R.
 [SouJava](https://soujava.org.br/)|O SouJava é um grupo de usuários formado por desenvolvedores da tecnologia Java no Brasil. Ele tem como objetivo fortalecer, expandir e profissionalizar o uso de Java no país.
