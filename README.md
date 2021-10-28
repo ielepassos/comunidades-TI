@@ -30,3 +30,4 @@ Nome | Descrição |
 [Start Coding](https://linktr.ee/startcoding)| Iniciativa online com o objetivo de inserir mulheres no setor da tecnologia.
 [WoMakersCode](https://womakerscode.org/links)| Comunidade com o intuito de fortalecer o protagonismo feminino na TI, através do desenvolvimento profissional e econômico.
 [Women Techmakers](https://www.womentechmakers.com)| A WTM é um programa da Google para integrar e apoiar mulheres de tecnologia, promovendo eventos e trocando conhecimento
+[Women Who Code](https://www.womenwhocode.com/) A Women Who Code é uma organização internacional que oferece serviços para mulheres que buscam carreiras em tecnologia e um quadro de empregos para empresas que buscam profissionais de tecnologia.
