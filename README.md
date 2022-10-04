@@ -41,3 +41,4 @@ Nome | Descrição |
 [WoMakersCode](https://womakerscode.org/links)| Comunidade com o intuito de fortalecer o protagonismo feminino na TI, através do desenvolvimento profissional e econômico.
 [Women Techmakers](https://www.womentechmakers.com)| A WTM é um programa da Google para integrar e apoiar mulheres de tecnologia, promovendo eventos e trocando conhecimento
 [Women Who Code](https://www.womenwhocode.com/) | A Women Who Code é uma organização internacional que oferece serviços para mulheres que buscam carreiras em tecnologia e um quadro de empregos para empresas que buscam profissionais de tecnologia.
+[PyLadies Teresina](https://linktr.ee/pyladiesthe)| É um grupo internacional, com foco em ajudar mais mulheres a se tornarem participantes ativas e líderes da comunidade de código aberto Python. Capítulo da Pyladies sediado em Teresina-PI. Empoderando mulheres na tecnologia! 👩🏽‍💻
