@@ -36,6 +36,7 @@ Nome | Descrição |
 [PyladiesPB](https://linktr.ee/pyladiespb)|Comunidade na Paraíba com foco em ajudar mais mulheres a se tornarem participantes ativas e líderes da comunidade de código aberto Python.
 [PyLadies Parnaíba](https://linktr.ee/pyladiesparnaiba)| Comunidade em Parnaíba-PI com foco em ajudar mais mulheres a se tornarem participantes ativas e líderes da comunidade de código aberto Python.
 [PyLadies Recife](https://linktr.ee/pyladiesrecife) | Capítulo das PyLadies em Recife-PE, que busca integrar mulheres e pessoas não-binárias na linguagem de programação Python no contexto recifense.
+[PyLadies Teresina](https://linktr.ee/pyladiesthe)| É um grupo internacional, com foco em ajudar mais mulheres a se tornarem participantes ativas e líderes da comunidade de código aberto Python. Capítulo da Pyladies sediado em Teresina-PI. Empoderando mulheres na tecnologia! 👩🏽‍💻
 [Python Brasil](https://www.facebook.com/pythonbrasil/) |Comunidade nacional do Python com o objetivo de divulgar e difundir a linguagem de programação no Brasil.
 [Reprograma](https://reprograma.com.br/)|A {reprograma} é uma iniciativa de impacto social que foca em ensinar programação para mulheres cis e trans que não têm recursos e/ou oportunidades para aprender a programar.
 [R-Ladies](https://rladies.org/about-us/)|Uma comunidade com a missão de alcançar representação proporcional encorajando, inspirando e capacitando pessoas de gêneros atualmente sub-representados na comunidade R.
