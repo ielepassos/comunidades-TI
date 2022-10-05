@@ -11,6 +11,7 @@ Antes de contribuir, leia o CONTRIBUTING.md :)
 
 Nome | Descrição |  
 -------|----------------|
+[Amapadev](https://amapadev.github.io/devs/)| Comunidade de tecnologia do estado do Amapá, com o intuito de difundir tecnologias, compartilhar as experiências e carreira dos(as) profissionais que atuam no mercado de desenvolvimento de software em terras tucujus.
 [AfroPython](http://afropython.org/)| Comunidade com intuito de aumentar a representatividade de pessoas negras dentro da área de tecnologia.
 [AI Girls](https://aigirlsbr.github.io/)|Uma comunidade feminina de tecnologia que tem por objetivo promover o protagonismo feminino nas áreas de inteligência artificial e ciência de dados.
 [AI inclusive](https://pt.ai-inclusive.org/about)|Uma comunidade com a missão de aumentar a representação e participação de grupos de minorias de gênero na IA. 
