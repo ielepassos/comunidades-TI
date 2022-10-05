@@ -33,6 +33,7 @@ Nome | Descrição |
 [PyLadies Brasil](http://brasil.pyladies.com/)| Comunidade que centraliza as Pyladies do Brasil todo, ou seja, os capítulos de cada estado
 [PyladiesPB](https://linktr.ee/pyladiespb)|Comunidade na Paraíba com foco em ajudar mais mulheres a se tornarem participantes ativas e líderes da comunidade de código aberto Python.
 [PyLadies Parnaíba](https://linktr.ee/pyladiesparnaiba)| Comunidade em Parnaíba-PI com foco em ajudar mais mulheres a se tornarem participantes ativas e líderes da comunidade de código aberto Python.
+[PyLadies Teresina](https://linktr.ee/pyladiesthe)| É um grupo internacional, com foco em ajudar mais mulheres a se tornarem participantes ativas e líderes da comunidade de código aberto Python. Capítulo da Pyladies sediado em Teresina-PI. Empoderando mulheres na tecnologia! 👩🏽‍💻
 [Python Brasil](https://www.facebook.com/pythonbrasil/) |Comunidade nacional do Python com o objetivo de divulgar e difundir a linguagem de programação no Brasil.
 [Reprograma](https://reprograma.com.br/)|A {reprograma} é uma iniciativa de impacto social que foca em ensinar programação para mulheres cis e trans que não têm recursos e/ou oportunidades para aprender a programar.
 [R-Ladies](https://rladies.org/about-us/)|Uma comunidade com a missão de alcançar representação proporcional encorajando, inspirando e capacitando pessoas de gêneros atualmente sub-representados na comunidade R.
@@ -41,4 +42,3 @@ Nome | Descrição |
 [WoMakersCode](https://womakerscode.org/links)| Comunidade com o intuito de fortalecer o protagonismo feminino na TI, através do desenvolvimento profissional e econômico.
 [Women Techmakers](https://www.womentechmakers.com)| A WTM é um programa da Google para integrar e apoiar mulheres de tecnologia, promovendo eventos e trocando conhecimento
 [Women Who Code](https://www.womenwhocode.com/) | A Women Who Code é uma organização internacional que oferece serviços para mulheres que buscam carreiras em tecnologia e um quadro de empregos para empresas que buscam profissionais de tecnologia.
-[PyLadies Teresina](https://linktr.ee/pyladiesthe)| É um grupo internacional, com foco em ajudar mais mulheres a se tornarem participantes ativas e líderes da comunidade de código aberto Python. Capítulo da Pyladies sediado em Teresina-PI. Empoderando mulheres na tecnologia! 👩🏽‍💻
