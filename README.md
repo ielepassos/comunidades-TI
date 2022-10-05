@@ -7,14 +7,14 @@ Sabemos que fazer parte de comunidades proporciona além da criação/aumento de
 
 Antes de contribuir, leia o CONTRIBUTING.md :)
 
-## Espalhe a palavra da comunidade que você gosta hehehehe🙏 🙏 
+## Espalhe a palavra da comunidade que você gosta hehehehe🙏 🙏
 
-Nome | Descrição |  
+Nome | Descrição |
 -------|----------------|
 [Amapadev](https://amapadev.github.io/devs/)| Comunidade de tecnologia do estado do Amapá, com o intuito de difundir tecnologias, compartilhar as experiências e carreira dos(as) profissionais que atuam no mercado de desenvolvimento de software em terras tucujus.
 [AfroPython](http://afropython.org/)| Comunidade com intuito de aumentar a representatividade de pessoas negras dentro da área de tecnologia.
 [AI Girls](https://aigirlsbr.github.io/)|Uma comunidade feminina de tecnologia que tem por objetivo promover o protagonismo feminino nas áreas de inteligência artificial e ciência de dados.
-[AI inclusive](https://pt.ai-inclusive.org/about)|Uma comunidade com a missão de aumentar a representação e participação de grupos de minorias de gênero na IA. 
+[AI inclusive](https://pt.ai-inclusive.org/about)|Uma comunidade com a missão de aumentar a representação e participação de grupos de minorias de gênero na IA.
 [BOSS](https://github.com/BOSS-BigOpenSourceSibling)| Programa de mentoria que visa engajar grupos sub-representados na tecnologia para contribuir para Open Source
 [Brazilians in Tech](https://braziliansintech.com/)| A Brazilians in Tech é um espaço para conectar, encorajar e empoderar brasileiras estudando e trabalhando nas áreas de Ciência, Tecnologia, Computação e Engenharia.
 [Caverna](https://caverna.live/)| A Caverna é uma comunidade de pessoas desenvolvedoras de todos os níveis e das mais variadas especializacões.
@@ -26,7 +26,7 @@ Nome | Descrição |
 [FrontEnd Brasil](https://frontendbr.com.br/)|Comunidade que tem o intuito de compartilhar eventos, vagas, projetos e experiências com o foco no desenvolvimento front-end.
 [GDG Parnaíba](https://gdg.community.dev/gdg-parnaiba/)| GDG Parnaíba é o lugar para pessoas desenvolvedoras apaixonadas por tecnologia. Somos uma comunidade que faz encontros mensais online e presencialmente em Parnaiba-PI a fim de compartilhar conhecimentos e conectar pessoas.
 [Guardians](https://sites.google.com/a/computacao.ufcg.edu.br/guardians-ccc/)| Guardians é um grupo composto por alunos voluntários do curso de Ciência da Computação. Os principais objetivos do grupo eram inicialmente: manter o funcionamento dos laboratórios de ensino do curso, suporte aos usuários e às máquinas dos laboratórios e disseminação de conhecimento sobre Administração de Sistemas. Além disso, o grupo se estendeu com novas divisões como a célula de podcast, célula de Análise de Dados da Graduação, célula de estudo sobre assédio moral e sexual na UFCG, entre outras.
-[He4rt Developers](https://heartdevs.com/)|Uma comunidade que desenvolve conteúdos educativos do mundo da programação, ensinando e tirando dúvidas sobre assuntos diversos em TI. 
+[He4rt Developers](https://heartdevs.com/)|Uma comunidade que desenvolve conteúdos educativos do mundo da programação, ensinando e tirando dúvidas sobre assuntos diversos em TI.
 [Kotlinautas](https://kotlinautas.dev)| A Kotlinautas é uma comunidade que busca produzir e divulgar conteúdo sobre a linguagem Kotlin completamente em Português. Em forma de lives, artigos, cursos, vídeos e etc.
 [OpenDevUFCG](https://opendevufcg.org/)|Comunidade voltada a incentivar a cultura open source no curso de Ciência da Computação da UFCG.
 [Open Knowledge Brasil](https://ok.org.br/)| A OKBR promove e auxilia o debate em torno do open data e também fornece ferramentas para organizações trabalharem em alta performance no setor, além do seu contato direto com órgãos governamentais ou de governo aberto.
@@ -35,6 +35,7 @@ Nome | Descrição |
 [PyLadies Brasil](http://brasil.pyladies.com/)| Comunidade que centraliza as Pyladies do Brasil todo, ou seja, os capítulos de cada estado
 [PyladiesPB](https://linktr.ee/pyladiespb)|Comunidade na Paraíba com foco em ajudar mais mulheres a se tornarem participantes ativas e líderes da comunidade de código aberto Python.
 [PyLadies Parnaíba](https://linktr.ee/pyladiesparnaiba)| Comunidade em Parnaíba-PI com foco em ajudar mais mulheres a se tornarem participantes ativas e líderes da comunidade de código aberto Python.
+[PyLadies Recife](https://linktr.ee/pyladiesrecife) | Capítulo das PyLadies em Recife-PE, que busca integrar mulheres e pessoas não-binárias na linguagem de programação Python no contexto recifense.
 [PyLadies Teresina](https://linktr.ee/pyladiesthe)| É um grupo internacional, com foco em ajudar mais mulheres a se tornarem participantes ativas e líderes da comunidade de código aberto Python. Capítulo da Pyladies sediado em Teresina-PI. Empoderando mulheres na tecnologia! 👩🏽‍💻
 [Python Brasil](https://www.facebook.com/pythonbrasil/) |Comunidade nacional do Python com o objetivo de divulgar e difundir a linguagem de programação no Brasil.
 [Reprograma](https://reprograma.com.br/)|A {reprograma} é uma iniciativa de impacto social que foca em ensinar programação para mulheres cis e trans que não têm recursos e/ou oportunidades para aprender a programar.
