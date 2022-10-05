@@ -7,15 +7,17 @@ Sabemos que fazer parte de comunidades proporciona além da criação/aumento de
 
 Antes de contribuir, leia o CONTRIBUTING.md :)
 
-## Espalhe a palavra da comunidade que você gosta hehehehe🙏 🙏 
+## Espalhe a palavra da comunidade que você gosta hehehehe🙏 🙏
 
-Nome | Descrição |  
+Nome | Descrição |
 -------|----------------|
+[Amapadev](https://amapadev.github.io/devs/)| Comunidade de tecnologia do estado do Amapá, com o intuito de difundir tecnologias, compartilhar as experiências e carreira dos(as) profissionais que atuam no mercado de desenvolvimento de software em terras tucujus.
 [AfroPython](http://afropython.org/)| Comunidade com intuito de aumentar a representatividade de pessoas negras dentro da área de tecnologia.
 [AI Girls](https://aigirlsbr.github.io/)|Uma comunidade feminina de tecnologia que tem por objetivo promover o protagonismo feminino nas áreas de inteligência artificial e ciência de dados.
-[AI inclusive](https://pt.ai-inclusive.org/about)|Uma comunidade com a missão de aumentar a representação e participação de grupos de minorias de gênero na IA. 
+[AI inclusive](https://pt.ai-inclusive.org/about)|Uma comunidade com a missão de aumentar a representação e participação de grupos de minorias de gênero na IA.
 [BOSS](https://github.com/BOSS-BigOpenSourceSibling)| Programa de mentoria que visa engajar grupos sub-representados na tecnologia para contribuir para Open Source
 [Brazilians in Tech](https://braziliansintech.com/)| A Brazilians in Tech é um espaço para conectar, encorajar e empoderar brasileiras estudando e trabalhando nas áreas de Ciência, Tecnologia, Computação e Engenharia.
+[Caverna](https://caverna.live/)| A Caverna é uma comunidade de pessoas desenvolvedoras de todos os níveis e das mais variadas especializacões.
 [Coletivo Unicas](https://coletivo-unicas.vercel.app/)| O Coletivo Unicas é uma rede de apoio entre mulheres cis e trans envolvidas na Ciência e Tecnologia da UNICAP. Com o objetivo de mostrar a importância da presença de grupos que são considerados minorias nas áreas de STEM (sigla em inglês para Science, Technology, Engineering e Mathematics). Visamos atrair novas garotas e mulheres para a área, incentivar a sua permanência nos cursos de STEM e criar um ambiente acadêmico e profissional mais acolhedor, diverso e inclusivo para todes, através de atividades como cursos, workshops, campanhas, eventos e palestras.
 [Dev Seridó](https://devserido.netlify.app)| O Dev Seridó é uma comunidade que tem como objetivo difundir conhecimento, conectar pessoas e contribuir projetos para auxiliar a população do sertão do Seridó.
 [Django Girls](https://djangogirls.org/pt-br/)| Django Girls é uma comunidade internacional que ajuda meninas a organizarem eventos de programação através do fornecimento de ferramentas, materiais e apoio. Os eventos tem como objetivo ensinar outras meninas a programarem sua primeira aplicação web usando HTML, CSS, Python e Django.
@@ -34,6 +36,8 @@ Nome | Descrição |
 [PyLadies Brasil](http://brasil.pyladies.com/)| Comunidade que centraliza as Pyladies do Brasil todo, ou seja, os capítulos de cada estado
 [PyladiesPB](https://linktr.ee/pyladiespb)|Comunidade na Paraíba com foco em ajudar mais mulheres a se tornarem participantes ativas e líderes da comunidade de código aberto Python.
 [PyLadies Parnaíba](https://linktr.ee/pyladiesparnaiba)| Comunidade em Parnaíba-PI com foco em ajudar mais mulheres a se tornarem participantes ativas e líderes da comunidade de código aberto Python.
+[PyLadies Recife](https://linktr.ee/pyladiesrecife) | Capítulo das PyLadies em Recife-PE, que busca integrar mulheres e pessoas não-binárias na linguagem de programação Python no contexto recifense.
+[PyLadies Teresina](https://linktr.ee/pyladiesthe)| É um grupo internacional, com foco em ajudar mais mulheres a se tornarem participantes ativas e líderes da comunidade de código aberto Python. Capítulo da Pyladies sediado em Teresina-PI. Empoderando mulheres na tecnologia! 👩🏽‍💻
 [Python Brasil](https://www.facebook.com/pythonbrasil/) |Comunidade nacional do Python com o objetivo de divulgar e difundir a linguagem de programação no Brasil.
 [Reprograma](https://reprograma.com.br/)|A {reprograma} é uma iniciativa de impacto social que foca em ensinar programação para mulheres cis e trans que não têm recursos e/ou oportunidades para aprender a programar.
 [R-Ladies](https://rladies.org/about-us/)|Uma comunidade com a missão de alcançar representação proporcional encorajando, inspirando e capacitando pessoas de gêneros atualmente sub-representados na comunidade R.
