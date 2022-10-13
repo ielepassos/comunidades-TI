@@ -32,6 +32,7 @@ Nome | Descrição |
 [OpenDevUFCG](https://opendevufcg.org/)|Comunidade voltada a incentivar a cultura open source no curso de Ciência da Computação da UFCG.
 [Open Knowledge Brasil](https://ok.org.br/)| A OKBR promove e auxilia o debate em torno do open data e também fornece ferramentas para organizações trabalharem em alta performance no setor, além do seu contato direto com órgãos governamentais ou de governo aberto.
 [Programaria](https://www.programaria.org/)| Projeto realizado por mulheres, com o objetivo de incentivar o ensino e aprendizado da programação, visando uma maior participação feminina no mercado da tecnologia.
+[PHPSP](https://phpsp.org.br/) | Essa comunidade reúne profissionais interessados em estudar sobre PHP no estado de São Paulo. A comunidade promove encontros regularmente nas cidades de São Paulo, Campinas e Santos, com a intenção de discutir sobre a linguagem e outros assuntos pertinentes ao ramo de tecnologia.
 [PUG-PB](https://pb.python.org.br/)| Comunidade de usuários da linguagem Python da Paraíba com troca de conhecimento, respeito mútuo e diversidade
 [PyLadies Brasil](http://brasil.pyladies.com/)| Comunidade que centraliza as Pyladies do Brasil todo, ou seja, os capítulos de cada estado
 [PyladiesPB](https://linktr.ee/pyladiespb)|Comunidade na Paraíba com foco em ajudar mais mulheres a se tornarem participantes ativas e líderes da comunidade de código aberto Python.
