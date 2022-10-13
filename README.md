@@ -43,6 +43,7 @@ Nome | Descrição |
 [Reprograma](https://reprograma.com.br/)|A {reprograma} é uma iniciativa de impacto social que foca em ensinar programação para mulheres cis e trans que não têm recursos e/ou oportunidades para aprender a programar.
 [R-Ladies](https://rladies.org/about-us/)|Uma comunidade com a missão de alcançar representação proporcional encorajando, inspirando e capacitando pessoas de gêneros atualmente sub-representados na comunidade R.
 [SouJava](https://soujava.org.br/)|O SouJava é um grupo de usuários formado por desenvolvedores da tecnologia Java no Brasil. Ele tem como objetivo fortalecer, expandir e profissionalizar o uso de Java no país.
+[StackOverflow](https://pt.stackoverflow.com/)|O StackOverflow é um espaço baseado na comunidade para encontrar e contribuir com respostas para desafios técnicos e um dos sites mais populares do mundo.
 [Start Coding](https://linktr.ee/startcoding)| Iniciativa online com o objetivo de inserir mulheres no setor da tecnologia.
 [WoMakersCode](https://womakerscode.org/links)| Comunidade com o intuito de fortalecer o protagonismo feminino na TI, através do desenvolvimento profissional e econômico.
 [Women Techmakers](https://www.womentechmakers.com)| A WTM é um programa da Google para integrar e apoiar mulheres de tecnologia, promovendo eventos e trocando conhecimento
