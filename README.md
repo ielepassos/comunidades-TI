@@ -15,6 +15,7 @@ Nome | Descrição |
 [AfroPython](http://afropython.org/)| Comunidade com intuito de aumentar a representatividade de pessoas negras dentro da área de tecnologia.
 [AI Girls](https://aigirlsbr.github.io/)|Uma comunidade feminina de tecnologia que tem por objetivo promover o protagonismo feminino nas áreas de inteligência artificial e ciência de dados.
 [AI inclusive](https://pt.ai-inclusive.org/about)|Uma comunidade com a missão de aumentar a representação e participação de grupos de minorias de gênero na IA.
+[Baixada Nerd](https://linktr.ee/baixadanerd)| Comunidade que visa dar visibilidade a tudo que é produzido na Baixada Santista e transformar o mundo através da tecnologia!
 [BOSS](https://github.com/BOSS-BigOpenSourceSibling)| Programa de mentoria que visa engajar grupos sub-representados na tecnologia para contribuir para Open Source
 [Brazilians in Tech](https://braziliansintech.com/)| A Brazilians in Tech é um espaço para conectar, encorajar e empoderar brasileiras estudando e trabalhando nas áreas de Ciência, Tecnologia, Computação e Engenharia.
 [Caverna](https://caverna.live/)| A Caverna é uma comunidade de pessoas desenvolvedoras de todos os níveis e das mais variadas especializacões.
